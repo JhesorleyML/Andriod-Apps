@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="cost">Cost of Service</string>
+    <string name="tip">Tip %</string>
+    <string name="app_label">Tip Calculator</string>
+    <string name="defaultVal">0.00</string>
+    <string name="fifteen">15%</string>
+    <string name="five">5%</string>
+    <string name="seven">7%</string>
+    <string name="ten">10%</string>
+    <string name="labelForTip">Tip Amount</string>
+</resources>
